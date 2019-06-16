@@ -1,0 +1,10 @@
+{"employees": [
+	{"name":"John Brown", "address1":"1 West Avenue", "city":"Kingston", "country":"Jamaica", "telephoneNo":"123-4567", "role":"IT", "email":"oshanespencertech@gmail.com"},
+	{"name":"Jane Brown", "address1":"2 West Avenue", "city":"Kingston", "country":"Jamaica", "telephoneNo":"123-4567", "role":"HR", "email":"support@oshanespencer.net"},
+	{"name":"Janet Jackson", "address1":"3 West Avenue", "city":"Kingston", "country":"Jamaica", "telephoneNo":"123-4567", "role":"Admin", "email":"oshanespencertech@gmail.com"},
+	{"name":"Michael Jackson", "address1":"4 West Avenue", "city":"Kingston", "country":"Jamaica", "telephoneNo":"123-4567", "role":"IT", "email":"support@oshanespencer.net"},
+	{"name":"Christopher Doe", "address1":"5 West Avenue", "city":"Kingston", "country":"Jamaica", "telephoneNo":"123-4567", "role":"HR", "email":"no-reply@mail.com"},
+	{"name":"David Williams", "address1":"1 East Drive", "city":"Mobay", "country":"Jamaica", "telephoneNo":"123-4567", "role":"Admin", "email":"no-reply@mail.com"},
+	{"name":"Mary Jane", "address1":"2 East Drive", "city":"Mobay", "country":"Jamaica", "telephoneNo":"123-4567", "role":"IT", "email":"oshanespencertech@gmail.com"},
+	{"name":"Nathan Obryan", "address1":"3 East Drive", "city":"Mobay", "country":"Jamaica", "telephoneNo":"123-4567", "role":"CSR", "email":"no-reply@mail.com"}
+]}
